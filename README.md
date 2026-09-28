@@ -8,5 +8,5 @@ https://sai.lovestoblog.com/lpa1.html
 
 https://sai.lovestoblog.com/lpa2.htm
 
-https://sai.lovestoblog.com/gba/gba.htm1
-https://sai.lovestoblog.com/gba/bda.htm1
+https://sai.lovestoblog.com/gba/gba.html
+https://sai.lovestoblog.com/gba/bda.html
