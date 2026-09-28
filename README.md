@@ -2,6 +2,8 @@
 
 #https://townplannerin.github.io/plc/
 
-https://sai.lovestoblog.com/lpa.htm1
-https://sai.lovestoblog.com/lpa1.htm1
+https://sai.lovestoblog.com/lpa.html
+
+https://sai.lovestoblog.com/lpa1.html
+
 https://sai.lovestoblog.com/lpa2.htm
